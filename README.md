@@ -1,5 +1,5 @@
 # Final Fantasy UI Theme
 
-This is a Final Fantasy Inspired theme for Atom.
+This is a Final Fantasy inspired UI theme for Atom.
 
-![Screenshot](https://imgur.com/a/D4cTRx1)
+![Screenshot](https://i.imgur.com/21BQ8HW.png)
